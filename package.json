@@ -1,0 +1,13 @@
+{
+  "name": "convert-delicious-to-instapaper",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony-async-await index.js"
+  },
+  "author": "qrg <qualle.rhythmus+d@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "xml2js": "^0.4.17"
+  }
+}
